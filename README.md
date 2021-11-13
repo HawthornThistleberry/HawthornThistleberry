@@ -1,0 +1,1 @@
+Github is awesome, sure, but for historical reasons (long story, mostly to do with my work career) I happen to have set up my presence on Bitbucket at https://bitbucket.org/HawthornThistleberry/ and since Bitbucket is also awesome, I have never seen fit to move everything. So take a peek at my stuff there.
